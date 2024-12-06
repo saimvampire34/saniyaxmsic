@@ -32,7 +32,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/MISHRAJII123/YTMUSIC",
+    "https://github.com/MISHRAJII123/Applemusicop",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
@@ -78,7 +78,7 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://graph.org/file/2b3e02ec196fd4d5c5692-d790cd06a6d0371ccd.jpg"
+    "START_IMG_URL", "https://graph.org/file/dd8e0309e9ba3880c27ef-7103938bdab601b603.jpg"
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://te.legra.ph/file/b8a0c1a00db3e57522b53.jpg"
